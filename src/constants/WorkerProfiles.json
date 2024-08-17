@@ -1,0 +1,72 @@
+{
+    "Astrologer": [
+        {
+            "id": 1,
+            "name": "Astrologer",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag1.png"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag2.png"
+        }
+    ],
+    "Assistant": [
+        {
+            "id": 1,
+            "name": "Assistant",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag3.png"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag4.png"
+        }
+    ],
+    "Makeup": [
+        {
+            "id": 1,
+            "name": "Makeup",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag5.png"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag6.png"
+        }
+    ],
+    "Mehndi": [
+        {
+            "id": 1,
+            "name": "Mehndi",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag7.png"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag8.png"
+        }
+    ],
+    "Photographer": [
+        {
+            "id": 1,
+            "name": "Photographer",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag9.png"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "profileImage": "profile.jpg",
+            "countryFlag":"flag10.png"
+        }
+    ]
+}
